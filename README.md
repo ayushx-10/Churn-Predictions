@@ -133,7 +133,7 @@ Name: Ayush Kumar Bhattacharjee
 Project Type: Machine Learning / Deep Learning
 
 Email: ayushbhattacharya111@gmail.com
-LinkediN: https://linkedin.com/in/ayush-kumar-bhattacharjee-2b2737324
+Linkedin: https://linkedin.com/in/ayush-kumar-bhattacharjee-2b2737324
 
 ACKNOWLEDGEMENT
 ---------------
